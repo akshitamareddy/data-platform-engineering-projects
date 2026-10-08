@@ -1,0 +1,5 @@
+resource_id,cpu_avg_pct,connections_avg
+instance-a,3,0
+instance-b,55,0
+db-a,2,0.2
+db-b,21,13

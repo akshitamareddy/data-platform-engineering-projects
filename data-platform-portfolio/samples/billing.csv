@@ -1,0 +1,6 @@
+resource_id,service,monthly_cost_usd
+instance-a,ec2,120
+instance-b,ec2,250
+db-a,rds,600
+db-b,rds,320
+instance-a,ec2,30
